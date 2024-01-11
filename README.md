@@ -1,10 +1,10 @@
-### Bello, I'm Rohan Tumma ! 👋
+### Bello, I'm Rohan Tumma! 👋
 
 
-- 🔭 I’m currently studying at Dr. Babasaheb Ambedkar Technological University
+- 🔭 I’m Loki for now
 - 👯 I’m looking to collaborate 
-- 🌱 I’m currently learning NodeJS & Agile
-- 💬 Ask me about any Programming/coding/tech related stuff
+- 🌱 I’m currently learning Rust
+- 💬 Ask me about any Programming/coding/tech-related stuff
 - 📫 How to reach me: <p align="center">
   
 
